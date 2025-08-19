@@ -1,4 +1,5 @@
 @import 'tailwindcss';
+@plugin "daisyui";
 
 :root {
   @apply text-gray-50/87 bg-gray-950;
